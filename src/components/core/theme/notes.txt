@@ -1,0 +1,16 @@
+8-11-2019 10:00 start
+8-11-2019 11:30 end
+9-11-2019 18:15 start 
+9-11-2019 18:47 end 
+9-11-2019 18:57 start 
+9-11-2019 21:00 end 
+10-11-2019 15:30 start
+10-11-2019 15:45 end 
+10-11-2019 17:06 start
+10-11-2019 17:42 end 
+
+
+
+gatsby link breaks embeds and captions
+V center embedded images and tweets
+mettere links social in header

@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+/* lightGray: "#887B74",
+darkGray: "#474652",
+white: "#ffffff",
+lightOrange: "#FCEAC4",
+darkOrange: "#EDB932", */
+
+.global-flex{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+body{
+    margin: 0!important;
+    padding: 0!important;
+  /* background-color: #FCEAC4; */
+  font-family: "Roboto Slab", "sans-serif";
+  color: #444444;
+}
+a{
+    text-decoration: underline;
+    color: inherit;
+    /* color: #D04C1A; */
+    transition: all 0.2s;
+}
+p{
+    text-align: justify;
+}
+.justified>
+    p{
+        text-align: justify;
+    }
+
+a:hover{
+    color: #EDB932;
+    text-decoration: underline;
+    /* border-bottom: solid 2px #D04C1A;
+    margin-bottom: -2px; */
+}
+.block-img{
+    margin: 2rem 0;
+}
+.block-img > img{
+    width: 100%;
+}
+header>a:hover{
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Roboto Slab', serif;
+}
+
+a{
+    font-family: "Roboto", "sans-serif";
+}
+
+p{
+    font-size: 1.2rem;
+    /* line-height: 2.1rem; */
+}
+
+.body-text > .block-img {
+    text-align: center;
+    margin: auto;
+}
+
+.body-text > div {
+    text-align: center;
+    margin: auto;
+}
+
+.twitter-tweet{
+    margin: auto;
+}
